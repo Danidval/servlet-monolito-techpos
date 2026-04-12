@@ -92,10 +92,8 @@ servlet-monolito-techpos/
 5. Abre tu navegador y accede a:
 
    ```
-   http://localhost:8080/TechPOSv1/
+   http://localhost:8080/servlet_monolito_techpos_war_exploded/login.jsp
    ```
-
-   La aplicación redirigirá automáticamente a `login.jsp`.
 
 ---
 
